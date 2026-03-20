@@ -1,0 +1,1 @@
+# Manual-instala-o-Linux
