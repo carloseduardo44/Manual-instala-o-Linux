@@ -1,1 +1,1 @@
-# Manual-instala-o-Linux
+# Manual-instalacao-Linux(debian)
